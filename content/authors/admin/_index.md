@@ -6,7 +6,7 @@ title: Samuel Hurault
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoctoral researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
